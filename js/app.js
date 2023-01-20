@@ -31,7 +31,7 @@ rhaenyraStatus.addEventListener('click', () => {
     rhaenyraInfo.innerText = "Alive"
 })
 alicentBio.addEventListener('click', () => {
-    alicentInfo.innerText = "Rhaenyra is the daughter and only surviving child of King Viserys I and Aemma Arryn. She rides the dragon Syrax."
+    alicentInfo.innerText = "Queen Alicent Hightower is the second wife of King Viserys I Targaryen and daughter of Ser Otto Hightower, the Hand of the King."
 })
 alicentStatus.addEventListener('click', () => {
     alicentInfo.innerText = "Alive"
